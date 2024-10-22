@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://motilith.github.io/motilith.txt
+Sitemap: https://motilith.github.io/app/motilith.txt
+Sitemap: https://motilith.github.io/assets/motilith.txt
+Sitemap: https://motilith.github.io/css/motilith.txt
+Sitemap: https://motilith.github.io/includes/motilith.txt
+Sitemap: https://motilith.github.io/item/motilith.txt
+Sitemap: https://motilith.github.io/src/motilith.txt
